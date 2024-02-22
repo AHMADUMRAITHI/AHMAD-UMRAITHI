@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://AHMADUMRAITHI.github.io/happybirthday/)
+[Demo](https://AHMADUMRAITHI.github.io/AHMAD-UMRAITHI/)
 
 ## 🚀 How to Use
 
@@ -8,7 +8,7 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/AHMADUMRAITHI/happybirthday
+    $ git clone https://github.com/AHMADUMRAITHI/AHMADUMRAITHI
 
     # Go into the repository
     $ cd happybirthday
